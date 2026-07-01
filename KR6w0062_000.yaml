@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6w0062/d/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大悲觀世音菩薩至道禮文
+  edition:
+    short: d
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D62/D62n9026.xml
+    old_id: D62n9026
+hash: sha256:ff449ced5b0f63e31c43567fa46ff7be4f9ae7d80343c7cb09ce012dfd3309c3

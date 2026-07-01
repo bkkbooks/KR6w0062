@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6w0062/D/v1
+canonical_location: https://kanripo.org/bkk/KR6w0062/D/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大悲觀世音菩薩至道禮文
+  identifiers:
+    krp: KR6w0062
+    cbeta: D62n9026
+    cbeta_old_id: D62n9026
+    authorityid: CA0008061
+    json_key: D9026
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D62/D62n9026.xml
+    old_id: D62n9026
+  edition:
+    short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0062_000-D.yaml, hash: 'sha256:ff449ced5b0f63e31c43567fa46ff7be4f9ae7d80343c7cb09ce012dfd3309c3'}
+  - {seq: 1, filename: KR6w0062_001-D.yaml, hash: 'sha256:40b75c671569a82909749934e366aa40c5007dca1fac0240ec6ed07f6d056e7d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0062_000-D.markers.yaml, hash: 'sha256:8d0dfd650cd652a893a471eeb73a56a8b2e5d098aa890c3514f8f4ad42f9d90f'}
+  - {seq: 1, role: markers, filename: assets/KR6w0062_001-D.markers.yaml, hash: 'sha256:62f2e276eee361cfc3e26075d0d4ce9704924858976387ce6ab9674d9e8b0fcf'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6w0062_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 597
+  label: 大悲觀𠀍音菩󴅽至道礼文
+  type: juan
+  level: 1
+hash: sha256:9aaef7377b89f68506ad26dd45a73a192bbccd9209d4e1d6af0a96ff6cb63c24

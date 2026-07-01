@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6w0062/v1
+canonical_location: https://kanripo.org/bkk/KR6w0062/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大悲觀世音菩薩至道禮文
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D62/D62n9026.xml
+    old_id: D62n9026
+  edition:
+    short: bkk
+editions:
+- short: 國圖
+  label: 國圖
+  source_xml_id: wit.orig
+- short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0062_000.yaml, hash: 'sha256:ff449ced5b0f63e31c43567fa46ff7be4f9ae7d80343c7cb09ce012dfd3309c3'}
+  - {seq: 1, filename: KR6w0062_001.yaml, hash: 'sha256:e0526345983e736e8dfe9fb69f3844614486f54d84cb89056407c0d5e81bcff3'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6w0062_001.markers.yaml, hash: 'sha256:e894b165286646497d9cb4357bf5c969e8179a2e6fc72b23c92bc6bd3dc40cb1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6w0062_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 597
+  label: 大悲觀𠀍音菩󴅽至道礼文
+  type: juan
+  level: 1
+hash: sha256:a6b16b66f6c75fc257a3ff419ba2612c036d55f972526d43464c8590f8046ab7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
