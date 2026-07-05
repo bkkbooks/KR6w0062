@@ -19,9 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6w0062_000.yaml, hash: 'sha256:ff449ced5b0f63e31c43567fa46ff7be4f9ae7d80343c7cb09ce012dfd3309c3'}
-  - {seq: 1, filename: KR6w0062_001.yaml, hash: 'sha256:e0526345983e736e8dfe9fb69f3844614486f54d84cb89056407c0d5e81bcff3'}
+  - {seq: 1, filename: KR6w0062_001.yaml, hash: 'sha256:40b75c671569a82909749934e366aa40c5007dca1fac0240ec6ed07f6d056e7d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6w0062_001.markers.yaml, hash: 'sha256:e894b165286646497d9cb4357bf5c969e8179a2e6fc72b23c92bc6bd3dc40cb1'}
+  - {seq: 0, role: markers, filename: assets/KR6w0062_000.markers.yaml, hash: 'sha256:968522adbc7b67c0329b55aa20793724da48754c3729886813d11ffad32c35dc'}
+  - {seq: 1, role: markers, filename: assets/KR6w0062_001.markers.yaml, hash: 'sha256:769bf875914e576d4f44307786175b34fa29b73d8a37043e8a92f2b731ef5b36'}
 table_of_contents:
 - ref:
     seq: 1
@@ -33,7 +34,4 @@ table_of_contents:
   label: 大悲觀𠀍音菩󴅽至道礼文
   type: juan
   level: 1
-hash: sha256:a6b16b66f6c75fc257a3ff419ba2612c036d55f972526d43464c8590f8046ab7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3d85d43499163bf0d9eb2c888c23bd33be2d9ccd85731c3f935a069a69996d44
