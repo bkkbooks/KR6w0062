@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6w0062/v1
 canonical_location: https://kanripo.org/bkk/KR6w0062/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大悲觀世音菩薩至道禮文
   source:
@@ -19,10 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6w0062_000.yaml, hash: 'sha256:ff449ced5b0f63e31c43567fa46ff7be4f9ae7d80343c7cb09ce012dfd3309c3'}
-  - {seq: 1, filename: KR6w0062_001.yaml, hash: 'sha256:40b75c671569a82909749934e366aa40c5007dca1fac0240ec6ed07f6d056e7d'}
+  - {seq: 1, filename: KR6w0062_001.yaml, hash: 'sha256:4d26952de69544d68435262bbb1c3e91a11ba7bb771c0295a0376adf732cc3af'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6w0062_000.markers.yaml, hash: 'sha256:968522adbc7b67c0329b55aa20793724da48754c3729886813d11ffad32c35dc'}
-  - {seq: 1, role: markers, filename: assets/KR6w0062_001.markers.yaml, hash: 'sha256:769bf875914e576d4f44307786175b34fa29b73d8a37043e8a92f2b731ef5b36'}
+  - {seq: 1, role: markers, filename: assets/KR6w0062_001.markers.yaml, hash: 'sha256:d96366055c4e489cbd592230bac8b4d792385f9911f285044cac1fbf0f861635'}
 table_of_contents:
 - ref:
     seq: 1
@@ -34,4 +34,7 @@ table_of_contents:
   label: 大悲觀𠀍音菩󴅽至道礼文
   type: juan
   level: 1
-hash: sha256:3d85d43499163bf0d9eb2c888c23bd33be2d9ccd85731c3f935a069a69996d44
+hash: sha256:aa90776a093f2032e60485aea8eea65581301c77a87ae76d606f26caa1c4315e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
